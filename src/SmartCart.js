@@ -63,8 +63,8 @@ const SmartCart = () => {
                     <div className="timeline_component">
                         {/* Timeline items can be mapped here */}
 
-                        <TimelineItem block="A" description="Near Step" />
-                        <TimelineItem block="B" description="Near COE" />
+                        <TimelineItem block="A" description="CAD Lab" />
+                        <TimelineItem block="B" description="Mechatronics Lab" />
                         <TimelineItem block="C" description="Enter C & D Block" />
                         <TimelineItem block="D" description="Near Small Canteen" />
                         <TimelineItem block="Library" description="Library" />
