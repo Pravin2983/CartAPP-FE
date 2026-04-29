@@ -91,7 +91,7 @@
 import axios from 'axios';
 
 // Base URL for API requests
-const API_BASE_URL = 'https://cartprojectbe.onrender.com/api/auth'; 
+const API_BASE_URL = 'https://cartapp-be.onrender.com'; 
 
 // Helper function to handle errors
 const handleAxiosError = (error) => {
