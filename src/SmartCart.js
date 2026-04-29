@@ -67,8 +67,8 @@ const SmartCart = () => {
                         <TimelineItem block="B" description="Mechatronics Lab" />
                         <TimelineItem block="C" description="Enter C & D Block" />
                         <TimelineItem block="D" description="Near Small Canteen" />
-                        <TimelineItem block="Library" description="Library" />
-                        <TimelineItem block="Girls-Hostel" description="Girls-Hostel" />
+                        <TimelineItem block="Library" description="CAD Lab" />
+                        <TimelineItem block="Girls-Hostel" description="Mechatronics Lab" />
                         <TimelineItem block="Boys-Hostel" description="Boys-Hostel" />
                         <TimelineItem block="MBA-Block" description="MBA-Block" />
                         <TimelineItem block="Food Court" description="Food Court" />
